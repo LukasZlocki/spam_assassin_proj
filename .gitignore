@@ -1,5 +1,8 @@
 .ipynb_checkpoints
 spamvenv
+srcdata/
 spam_assassin_Proj.*
 spam_assassin.csv
 
+output_emails_non_spam.csv
+output_emails_spam.csv
